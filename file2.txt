@@ -1,2 +1,2 @@
 this is line1 in file2.txt
-
+this is line2 in file2.txt - changed before commit 5 and after merging branch dev in main
